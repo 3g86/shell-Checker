@@ -24,5 +24,7 @@ To run Shell Checker, you need:
 
 ## Credits
 
-This script was developed by https://github.com/3g86. instagram @3g86
-If you have any questions or suggestions, feel free to contact me. Thank you for using Shell Checker!
+This script was developed by https://github.com/3g86. If you have any questions or suggestions, feel free to contact me. Thank you for using Shell Checker!
+Follow me on  https://www.instagram.com/3g86/
+
+
