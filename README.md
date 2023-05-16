@@ -24,6 +24,6 @@ To run Shell Checker, you need:
 
 ## Credits
 
-This script was developed by [your name] ([3g86](https://github.com/[3g86])). If you have any questions or suggestions, feel free to contact me. Thank you for using Shell Checker!
+This script was developed by https://github.com/3g86. If you have any questions or suggestions, feel free to contact me. Thank you for using Shell Checker!
 
 That's just an example, but you can customize it to fit your needs and style. Don't forget to replace "[3g86]" and "[3g86]" with your real info. Good luck!
