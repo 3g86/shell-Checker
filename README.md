@@ -11,7 +11,7 @@ To use Shell Checker, follow these steps:
 3. In your command-line interface, run the script using the command `python script.py shells.txt`.
 4. The tool will execute and scan all the pages listed in "shells.txt", one by one, to determine whether they contain a shell or not.
 5. At the end of the scan, the script will show some statistics, including the number of working and non-working pages found. It will also save the links of the working pages in a new file named "working.txt" and the links of the non-working pages in a file named "not_working.txt".
-6. 
+
 <img src="https://a.top4top.io/p_2692105ho1.jpg" alt="My tool">
 ## Requirements
 
