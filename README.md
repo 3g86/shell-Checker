@@ -6,9 +6,9 @@ This script is a tool used to check the shell of Shell files on the websites. Th
 
 following steps:
 
--`git clone https://github.com/3g86/shell`
--`cd shell`
--`pip install -r requirements.txt`
+- `git clone https://github.com/3g86/shell`
+- `cd shell`
+- `pip install -r requirements.txt`
 
 
 ## Usage
